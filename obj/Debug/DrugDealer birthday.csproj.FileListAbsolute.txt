@@ -1,0 +1,10 @@
+C:\coding\C#\DrugDealer birthday\bin\Debug\DrugDealer birthday.exe.config
+C:\coding\C#\DrugDealer birthday\bin\Debug\DrugDealer birthday.exe
+C:\coding\C#\DrugDealer birthday\bin\Debug\DrugDealer birthday.pdb
+C:\coding\C#\DrugDealer birthday\obj\Debug\DrugDealer birthday.csprojAssemblyReference.cache
+C:\coding\C#\DrugDealer birthday\obj\Debug\DrugDealer_birthday.Form1.resources
+C:\coding\C#\DrugDealer birthday\obj\Debug\DrugDealer_birthday.Properties.Resources.resources
+C:\coding\C#\DrugDealer birthday\obj\Debug\DrugDealer birthday.csproj.GenerateResource.cache
+C:\coding\C#\DrugDealer birthday\obj\Debug\DrugDealer birthday.csproj.CoreCompileInputs.cache
+C:\coding\C#\DrugDealer birthday\obj\Debug\DrugDealer birthday.exe
+C:\coding\C#\DrugDealer birthday\obj\Debug\DrugDealer birthday.pdb
